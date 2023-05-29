@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon May 29 22:04:46 NPT 2023
+0.base=C\:\\Users\\HP\\Downloads\\BlindCommunicator-master\\BlindCommunicator-master\\Blind Sight\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=beep.wav
+0.baseType=DIRECTORY
+1.set=ASSET
+1.base=C\:\\Users\\HP\\Downloads\\BlindCommunicator-master\\BlindCommunicator-master\\Blind Sight\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.set=DEX

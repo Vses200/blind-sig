@@ -1,0 +1,4 @@
+#Mon May 29 22:04:46 NPT 2023
+base.0=C\:\\Users\\HP\\Downloads\\BlindCommunicator-master\\BlindCommunicator-master\\Blind Sight\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
